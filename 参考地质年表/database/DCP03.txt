@@ -1,0 +1,346 @@
+
+
+utf:hutianian
+  skos:prefLabel "hutianian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 320.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 296.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+.
+
+
+utf:mapingian
+  skos:prefLabel "mapingian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 303.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 296.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:hutianian;
+.
+
+
+utf:weiningian
+  skos:prefLabel "weiningian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 320.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 303.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:hutianian;
+.
+
+
+utf:xiaodushanian
+  skos:prefLabel "xiaodushanian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 303.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 296.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:mapingian;
+.
+
+
+utf:dalaun
+  skos:prefLabel "dalaun"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 310.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 303.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:weiningian;
+.
+
+
+utf:huashibanian
+  skos:prefLabel "huashibanian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 316.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 310.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:weiningian;
+.
+
+
+utf:luosuan
+  skos:prefLabel "luosuan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 320.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 316.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:weiningian;
+.
+
+
+utf:fengningian
+  skos:prefLabel "fengningian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 358.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 320.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+.
+
+
+utf:aikuanian
+  skos:prefLabel "aikuanian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 358.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 345.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:fengningian;
+.
+
+
+utf:tatangian
+  skos:prefLabel "tatangian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 345.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 320.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:fengningian;
+.
+
+
+utf:tangbagouan
+  skos:prefLabel "tangbagouan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 358.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 345.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:aikuanian;
+.
+
+
+utf:dewuan
+  skos:prefLabel "dewuan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 326.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 320.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:tatangian;
+.
+
+
+utf:shangsian
+  skos:prefLabel "shangsian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 333.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 326.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:tatangian;
+.
+
+
+utf:jiusian
+  skos:prefLabel "jiusian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 345.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 333.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:tatangian;
+.
+
+
+utf:lopingian
+  skos:prefLabel "lopingian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 260.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 251.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+.
+
+
+utf:changhsingian
+  skos:prefLabel "changhsingian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 255.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 251.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:lopingian;
+.
+
+
+utf:wuchiapingian
+  skos:prefLabel "wuchiapingian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 260.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 255.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:lopingian;
+.
+
+
+utf:yanghsingian
+  skos:prefLabel "yanghsingian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 279.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 260.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+.
+
+
+utf:maokouan
+  skos:prefLabel "maokouan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 272.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 260.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:yanghsingian;
+.
+
+
+utf:chihsian
+  skos:prefLabel "chihsian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 279.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 272.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:yanghsingian;
+.
+
+
+utf:lengwuan
+  skos:prefLabel "lengwuan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 265.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 260.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:maokouan;
+.
+
+
+utf:kuhfengian
+  skos:prefLabel "kuhfengian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 270.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 265.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:maokouan;
+.
+
+
+utf:xiangboan
+  skos:prefLabel "xiangboan"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 273.5;
+  utf:start_uncertainty 0.0 ;
+  utf:end 270.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:maokouan;
+.
+
+
+utf:luodianian
+  skos:prefLabel "luodianian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 279.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 273.5 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:chihsian;
+.
+
+
+utf:chuanshanian
+  skos:prefLabel "chuanshanian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 296.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 279.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+.
+
+
+utf:longlinian
+  skos:prefLabel "longlinian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 284.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 279.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:chuanshanian;
+.
+
+
+utf:zisongian
+  skos:prefLabel "zisongian"@en ;
+  rdf:type utf:Interval_time ;
+  utf:start 296.0;
+  utf:start_uncertainty 0.0 ;
+  utf:end 284.0 ;
+  utf:end_uncertainty 0.0 ;
+  utf:unit "Ma"@en ;
+  utf:reference_system utf:DCP03 ;
+  utf:partOf utf:chuanshanian;
+.
